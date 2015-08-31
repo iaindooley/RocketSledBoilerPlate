@@ -1,6 +1,8 @@
 RocketSledBoilerPlate is a suggested starting point for creating an application
 with https://github.com/iaindooley/RocketSled and https://github.com/iaindooley/RocketPack
 
+Also see this package for an alternative routing solution: https://github.com/bh-chaker/RocketPath
+
 ## Typical usage
 
 * Update dirs.php with some hosts/dirs you'll use (eg. your local dev server where
